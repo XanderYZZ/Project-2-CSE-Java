@@ -1,0 +1,5 @@
+1384349045225    Broflovski           Kyle              5700.0
+3873472785863    Cartman              Eric             15625.0
+4834324308675    McCormick            Kenny             8525.0
+5627238253456    Marsh                Stan              2925.0
+8230123345450    Simons               Jenny             7575.0
